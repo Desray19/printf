@@ -143,7 +143,7 @@ int print_int(va_list types, char buffer[],
 
 /************************* PRINT BINARY *************************/
 /**
- * print_binary - Prints an unsigned number
+ * print_binary - Prints an unsigned numbers
  * @types: Lista of arguments
  * @buffer: Buffer arrays to handles print
  * @flags:  Calculating active flags
